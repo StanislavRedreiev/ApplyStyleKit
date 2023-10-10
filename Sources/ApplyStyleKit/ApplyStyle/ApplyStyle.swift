@@ -6,7 +6,7 @@
 //  Copyright © 2018 shindyu. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 public protocol ApplyStyleProtocol {
     associatedtype StyleCompatible
